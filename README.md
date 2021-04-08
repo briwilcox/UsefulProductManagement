@@ -1,4 +1,4 @@
-# UsefulProductManagement
+# Useful Product Management
 Useful Product Management Resources
 
 ## Introduction to Product Management
